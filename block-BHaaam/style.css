@@ -1,4 +1,19 @@
-.head{
-    width: 120px;
-}
+img
+{
+    width: 700px;
     
+}
+.index
+{
+    background-color: blanchedalmond;
+}
+.contact
+{
+    background-color: aquamarine;
+}
+.package{
+    background-color: blue;
+}
+.home{
+    background-color: brown;
+}
