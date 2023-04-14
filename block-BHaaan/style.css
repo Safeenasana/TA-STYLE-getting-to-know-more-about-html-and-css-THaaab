@@ -1,0 +1,42 @@
+.img{
+    width: 700px;
+}
+.links{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #244AFB;
+}
+.main{
+    background-color: #C786C7;
+    height: 30px;
+    padding-top: 15px;
+    
+}
+.heading{
+    color: #244AFB;
+
+}
+.subhead{
+    color: #244AFB;
+
+}
+.head2 {
+    color: #244AFB;
+
+}
+.head3
+{
+    color: #244AFB; 
+}
+.footer{
+    background-color: #9090E7;
+    text-align: center;
+    height: 30px;
+   
+    
+}
+.mainclass{
+    margin-left: 100px;
+}
